@@ -12,7 +12,7 @@ public class Application {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        System.out.println("Welcome to XandO game!");
+        System.out.println("Welcome to tic-tac-toe game!");
 
 
         String row1 = "   |   |   ";
